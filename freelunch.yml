@@ -1,5 +1,5 @@
 ---
-#comment added to trigger build; test #1
+#comment added to trigger build; test
 builds:
   docker_image_name: FreeLunchCI/example-web-app
 
